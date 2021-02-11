@@ -40,5 +40,12 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
+  <servers>
+        <server>
+            <id>maven-public</id>
+            <username>admin</username>
+            <password>admin</password>
+        </server>
+</servers>       
 
 </project>
